@@ -14,6 +14,7 @@ To get the bot up and running on your server, follow these steps:
 1. Obtain a bot token from the [Discord Developer Portal](https://discord.com/developers/applications)
 2. Configure the bot by editing **`bot.py`** and adding your token
 3. Run the bot using **`python bot.py`**
+4. (**Optional**:remove  comments(#) in **`bot.py`** to connect to **`keep_alive.py`** so that you can add this bot on an online server)
 
 ## Usage
 
